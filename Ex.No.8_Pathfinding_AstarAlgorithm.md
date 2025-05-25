@@ -1,5 +1,5 @@
 # Ex.No: 8  Implementation of Path finding using A* algorithm
-### DATE:  26-04-25                                                                    
+### DATE: 05/05/2025                                                                    
 ### REGISTER NUMBER : 212224230275
 ### NAME: K.SRISARAN KARTHIK
 ### AIM: 
