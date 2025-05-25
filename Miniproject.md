@@ -12,5 +12,5 @@ To develop a game -------------------------in Unity
 ```
 ### Output:
 
-### Result:
+### Result
 Thus the game was developed using Unity and adopted _-----------AI technology.
